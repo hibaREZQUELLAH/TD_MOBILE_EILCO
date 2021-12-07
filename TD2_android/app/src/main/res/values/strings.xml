@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Repas</string>
+    <string name="entree">Entree</string>
+    <string name="plat_principal">Plat principal</string>
+    <string name="fromage">Fromage</string>
+    <string name="fruit">Fruit</string>
+    <string name="soir">Soir</string>
+    <string name="midi">Midi</string>
+    <string name="state">Etat du ciel :</string>
+    <string name="temperature">Température (°C):</string>
+    <string name="vitesse">Vitesse du vent (km/h):</string>
+    <string name="titre">Commandez en ligne</string>
+    <string name="valider">Valider</string>
+    <string name="annuler">Annuler</string>
+</resources>
